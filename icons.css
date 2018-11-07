@@ -1,9 +1,9 @@
 .liferay {
- background-image: url('https://icons.apps.devcon.cloud-archi.com/liferay.png') no-repeat top left;
- padding-left:25px;
- display: inline-block;
+ background-image: url('https://icons.apps.devcon.cloud-archi.com/liferay.png');
+ display: block;
  height: 48px;
  width: 48px;
 }
+
 
 
